@@ -1,0 +1,21 @@
+* {
+    font-family: sans-serif;
+}
+#home {
+    color: rgb(163, 133, 78);
+    background-color: rgb(44, 42, 42);
+    text-align: center;
+}
+.h3 {
+    font-style: italic;
+    color: rgb(163, 133, 78);
+    background-color: rgb(59, 37, 37);
+}
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+div {
+    text-decoration: underline;
+}
